@@ -1,7 +1,7 @@
 ### Hello there 👨🏻‍💻
 
 <!--
-**FlavioLorenzi/flaviolorenzi** is a ✨ aspecial_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**FlavioLorenzi/flaviolorenzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 - 🔭 I’m currently working on my master thesis "Continuous Learning approach for the Activity Recognition task, using hybrid real - sinthetic(Unity making) dataset", engaged full time in a company internship at Konica Minolta R&D, Rome (Italy).
@@ -10,9 +10,9 @@
 
 
 <p align="center">
-  <img src="ai2.gif" width="300" height="150">
-  <img src="sai.gif" width="300" height="150">
-  <img src="sai3.gif" width="300" height="150">
+  <img src="ai2.gif" width="250" height="110">
+  <img src="sai.gif" width="250" height="110">
+  <img src="sai3.gif" width="250" height="110">
 </p>
 
 "Engineers like to solve problems. 
