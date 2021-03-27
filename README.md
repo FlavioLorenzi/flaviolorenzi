@@ -4,7 +4,7 @@
 **FlavioLorenzi/flaviolorenzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on my master thesis "Continuous Learning approach for the Activity Recognition task, using hybrid real - sinthetic(Unity making) dataset", engaged full time in a company internship at Konica Minolta R&D, Rome (Italy).
+- 🔭 I’m currently working on my master thesis ["Continuous Learning approach for the Activity Recognition task, using hybrid real - sinthetic(Unity making) dataset"](./https://github.com/FlavioLorenzi/Continuous-Learning-on-Unity-dataset-exploiting-the-Activity-Recognition-Engine), engaged full time in a company internship at Konica Minolta R&D, Rome (Italy).
 
 - 📫 How to reach me: Linkedin or Mail
 
