@@ -10,9 +10,9 @@
 
 
 <p align="center">
-  <img src="ai2.gif" width="250" height="110">
-  <img src="sai.gif" width="250" height="110">
-  <img src="sai3.gif" width="250" height="110">
+  <img src="ai2.gif" width="250" height="130">
+  <img src="sai.gif" width="250" height="130">
+  <img src="sai3.gif" width="250" height="130">
 </p>
 
 "Engineers like to solve problems. 
