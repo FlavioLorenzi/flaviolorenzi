@@ -11,8 +11,7 @@
 
 <p align="center">
   <img src="sai.gif" width="150" height="100">
-</p>
-<p align="center">
+</p><p align="center">
   <img src="sai.gif" width="150" height="100">
 </p>
 
