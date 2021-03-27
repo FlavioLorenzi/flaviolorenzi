@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="ai.gif" width="250" height="250">
+  <img src="sai.gif" width="250" height="250">
 </p>
 
 Engineers like to solve problems. If there are no problems handily available, they will create their own problems 😉
