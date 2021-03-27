@@ -15,5 +15,7 @@
   <img src="ai3.gif" width="200" height="100">
 </p>
 
-Engineers like to solve problems. If there are no problems handily available, they will create their own problems 😉
+Engineers like to solve problems. 
+
+If there are no problems handily available, they will create their own problems 😉
 
