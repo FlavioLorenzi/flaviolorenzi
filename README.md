@@ -9,5 +9,7 @@
 - 📫 How to reach me: Linkedin or Mail
 
 
-<img src="ai.jpg" width="300" height="200"> Engineers like to solve problems. If there are no problems handily available, they will create their own problems 😉
+<img src="ai.jpg" width="300" height="200" align="center">
+
+Engineers like to solve problems. If there are no problems handily available, they will create their own problems 😉
 
