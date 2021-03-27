@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello there 👨🏻‍💻
 
 <!--
 **FlavioLorenzi/flaviolorenzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on my master thesis "Continuous Learning approach for the Activity Recognition task, using hybrid real/sinthetic (Unity) dataset", engaged full time in a company internship at Konica Minolta R&D, Rome (Italy).
+
+- 📫 How to reach me: Linkedin or Mail
+
+
+
+Engineers like to solve problems. If there are no problems handily available, they will create their own problems 😉
+
