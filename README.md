@@ -9,7 +9,9 @@
 - 📫 How to reach me: Linkedin or Mail
 
 
-<img src="ai.jpg" width="300" height="200" align="center">
+<p align="center">
+  <img src="ai.jpg" width="200" height="100">
+</p>
 
 Engineers like to solve problems. If there are no problems handily available, they will create their own problems 😉
 
