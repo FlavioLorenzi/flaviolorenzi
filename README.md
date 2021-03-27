@@ -12,7 +12,7 @@
 <p align="center">
   <img src="ai2.gif" width="200" height="100">
   <img src="sai.gif" width="200" height="100">
-  <img src="ai3.gif" width="200" height="100">
+  <img src="sai3.gif" width="200" height="100">
 </p>
 
 "Engineers like to solve problems. 
