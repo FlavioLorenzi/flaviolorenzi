@@ -4,7 +4,7 @@
 **FlavioLorenzi/flaviolorenzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- Machine Learning & Computer Vision Research Specialist at [Konica Minolta R&D](https://research.konicaminolta.com), Rome (Italy).
+- AI Engineer at [Konica Minolta Video Solution Service Business Unit](https://research.konicaminolta.com), Rome (Italy).
 
 - 📫 How to reach me: Linkedin or Mail (fla.lorenzi@outlook.it)
 
