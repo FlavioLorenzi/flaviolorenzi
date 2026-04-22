@@ -4,7 +4,7 @@
 **FlavioLorenzi/flaviolorenzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- AI Engineer at (S3K Group)[https://www.s3kgroup.it/], Rome (Italy).
+- AI Engineer at [S3K Group](https://www.s3kgroup.it), Rome (Italy).
 
 - 📫 How to reach me: Linkedin or Mail (fla.lorenzi@outlook.it)
 
